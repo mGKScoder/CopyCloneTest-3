@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bI2FSzBu0XgXsk7fyBSSpniP1Mtc0S3aJsqQrXJ6d5vca6KR6vFFCeeiOxRQHpNJeBR9X1+apve3aJFXNnGNeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamra\\source\\repos\\CopyCloneTest-3\\CopyCloneTest-3\\CopyCloneTest-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamra\\.nuget\\packages\\dynamicdata\\7.3.1\\dynamicdata.7.3.1.nupkg.sha512",
+    "C:\\Users\\kamra\\.nuget\\packages\\reactiveui\\16.2.6\\reactiveui.16.2.6.nupkg.sha512",
+    "C:\\Users\\kamra\\.nuget\\packages\\splat\\13.1.1\\splat.13.1.1.nupkg.sha512",
+    "C:\\Users\\kamra\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
